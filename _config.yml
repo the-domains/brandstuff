@@ -1,4 +1,17 @@
-title: DESIGN • BRANDING • PHOTOGRAPHY
+typography_spectrum: 0.1182796
+color:
+  saturation: 0.9502460935618728
+  brandStrength: 0
+  lightness: 0.8181378652807325
+  brandColors:
+    - '#0E1C2C'
+    - '#25CBD3'
+    - '#17626F'
+    - '#113543'
+    - '#1C838E'
+  rhythmicContrast: 0.07190931309014559
+layout_spectrum: 0.2706093
+name: vandepolder
 collections:
   - index:
       path: /
@@ -11,18 +24,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.9502460935618728
-  brandStrength: 0
-  lightness: 0.8181378652807325
-  brandColors:
-    - '#0E1C2C'
-    - '#25CBD3'
-    - '#17626F'
-    - '#113543'
-    - '#1C838E'
-  rhythmicContrast: 0.07190931309014559
-typography_spectrum: 0.1182796
-description: Ways to express your brand
-layout_spectrum: 0.2706093
-name: vandepolder
+title: DESIGN • BRANDING • PHOTOGRAPHY
+description: Readings about ways to express your brand
