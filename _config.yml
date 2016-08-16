@@ -1,16 +1,28 @@
-typography_spectrum: 0.11188515927642584
-color:
-  brandStrength: 0.20886665675789118
-  lightness: 0.8181378652807325
-  saturation: 0.9502460935618728
-  rhythmicContrast: 0.07190931309014559
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.21299371169880033
-name: vandepolder
 title: DESIGN • BRANDING • PHOTOGRAPHY
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.9502460935618728
+  brandStrength: 0
+  lightness: 0.8181378652807325
+  brandColors:
+    - '#0E1C2C'
+    - '#25CBD3'
+    - '#17626F'
+    - '#113543'
+    - '#1C838E'
+  rhythmicContrast: 0.07190931309014559
+typography_spectrum: 0.1182796
 description: Ways to express your brand
+layout_spectrum: 0.2706093
+name: vandepolder
