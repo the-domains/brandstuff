@@ -1,0 +1,60 @@
+---
+author:
+  - name: 3hund
+    url: 'https://vimeo.com/3hund'
+    avatar: {}
+related: []
+publisher:
+  url: 'https://vimeo.com/'
+  name: Vimeo
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+  domain: vimeo.com
+keywords: []
+description: >-
+  Behind the scenes: http://vimeo.com/3hund/behindthescenes The projection
+  mapping "bioluminescent forest" is made by artists Friedrich van Schoor and
+  Tarek Mawad. The artists spent six weeks in the forest fascinated by the
+  silence and natural occurrences in nature, especially the phenomenon
+  "bioluminescence".
+app_links:
+  - url: 'vimeo://app.vimeo.com/videos/115082758'
+    namespace: ai
+    type: ios
+    app_name: Vimeo
+    app_store_id: '425194759'
+  - should_fallback: 'true'
+    app_name: Vimeo
+    package: com.vimeo.android.videoapp
+    url: 'vimeo://app.vimeo.com/videos/115082758'
+    namespace: ai
+    type: web
+  - url: 'vimeo://app.vimeo.com/videos/115082758'
+    type: ipad
+    namespace: twitter
+    name: Vimeo
+    id: '425194759'
+  - url: 'vimeo://app.vimeo.com/videos/115082758'
+    type: iphone
+    namespace: twitter
+    name: Vimeo
+    id: '425194759'
+  - url: 'vimeo://app.vimeo.com/videos/115082758'
+    type: googleplay
+    namespace: twitter
+    name: Vimeo
+    id: com.vimeo.android.videoapp
+isBasedOnUrl: 'https://vimeo.com/3hund/bioluminescentforest'
+title: Projections in the Forest
+datePublished: '2016-08-16T11:06:43.837Z'
+dateModified: '2016-08-16T11:06:36.297Z'
+via: {}
+starred: false
+sourcePath: _posts/2016-08-16-projections-in-the-forest.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: VideoObject
+_context: 'http://schema.org'
+
+---
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F115082758&amp;url=https%3A%2F%2Fvimeo.com%2F115082758&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F501176019_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
