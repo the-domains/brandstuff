@@ -1,16 +1,16 @@
-typography_spectrum: 0.1182796
+typography_spectrum: 0.4304043392185122
 color:
-  saturation: 0.9502460935618728
-  brandStrength: 0
-  lightness: 0.8181378652807325
+  saturation: 0.36231942288577557
+  brandStrength: 0.11274218931794167
+  lightness: 0.6751728001981974
   brandColors:
-    - '#0E1C2C'
-    - '#25CBD3'
-    - '#17626F'
-    - '#113543'
-    - '#1C838E'
-  rhythmicContrast: 0.07190931309014559
-layout_spectrum: 0.2706093
+    - '#0F1C2C'
+    - '#24CBD3'
+    - '#002737'
+    - '#38C1C6'
+    - '#2C808D'
+  rhythmicContrast: 0.539275644114241
+layout_spectrum: 0.6970916690770537
 name: vandepolder
 collections:
   - index:
